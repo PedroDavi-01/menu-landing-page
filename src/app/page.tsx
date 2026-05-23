@@ -126,6 +126,9 @@ export default function MenuDigitalLanding() {
                     <Check size={16} className="text-[#C85A32]" /> Cardápio Digital personalizado
                   </li>
                   <li className="flex items-center gap-3 font-medium">
+                    <Check size={16} className="text-[#C85A32]" /> Vendas ilimitadas no Cardapio Digital
+                  </li>
+                  <li className="flex items-center gap-3 font-medium">
                     <Check size={16} className="text-[#C85A32]" /> Até 50 produtos cadastrados
                   </li>
                   <li className="flex items-center gap-3 font-medium">
@@ -149,7 +152,7 @@ export default function MenuDigitalLanding() {
               <div className="space-y-6">
                 <h3 className="text-xs font-bold uppercase tracking-[0.2em] text-[#DCD7CD]">Plano Full</h3>
                 <div className="flex items-baseline gap-1">
-                  <span className="text-5xl font-serif text-white">R$ 99</span>
+                  <span className="text-5xl font-serif text-white">R$ 89</span>
                   <span className="text-[#DCD7CD] text-xs">/mês</span>
                 </div>
                 <ul className="space-y-4 text-sm text-[#DCD7CD]">
@@ -157,10 +160,13 @@ export default function MenuDigitalLanding() {
                     <Check size={16} className="text-[#C85A32]" /> <span className="text-white font-medium">Todas as vantagens anteriores</span>
                   </li>
                   <li className="flex items-center gap-3">
-                    <Check size={16} className="text-[#C85A32]" /> <span className="text-white font-medium">Produtos e categorias ilimitados</span>
+                    <Check size={16} className="text-[#C85A32]" /> <span>Produtos e categorias ilimitados</span>
                   </li>
                   <li className="flex items-center gap-3">
                     <Check size={16} className="text-[#C85A32]" /> Dashboard completo de vendas
+                  </li>
+                  <li className="flex items-center gap-3">
+                    <Check size={16} className="text-[#C85A32]" /> Dashboard completo de pedidos
                   </li>
                 </ul>
               </div>
