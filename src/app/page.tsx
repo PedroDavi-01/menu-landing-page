@@ -152,7 +152,7 @@ export default function MenuDigitalLanding() {
               <div className="space-y-6">
                 <h3 className="text-xs font-bold uppercase tracking-[0.2em] text-[#DCD7CD]">Plano Full</h3>
                 <div className="flex items-baseline gap-1">
-                  <span className="text-5xl font-serif text-white">R$ 89</span>
+                  <span className="text-5xl font-serif text-white">R$ 69</span>
                   <span className="text-[#DCD7CD] text-xs">/mês</span>
                 </div>
                 <ul className="space-y-4 text-sm text-[#DCD7CD]">
